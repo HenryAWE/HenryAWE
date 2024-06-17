@@ -14,7 +14,4 @@ I'm a student at Lanzhou University.
 - Genshin Impact  
   ![genshin](https://ys.himiku.com/81/283719728.png)  
 
-- Steam  
-  ![steam](https://steam-stat.vercel.app/api?profileName=HenryAWE)
-
 </details>
