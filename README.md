@@ -11,7 +11,4 @@ I'm a student at Lanzhou University.
 
 - [My Bilibili](https://space.bilibili.com/23931748)  
 
-- Genshin Impact  
-  ![genshin](https://ys.himiku.com/81/283719728.png)  
-
 </details>
