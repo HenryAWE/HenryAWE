@@ -9,6 +9,7 @@ I'm a student at Lanzhou University.
 <details>
   <summary><b>Other Info</b></summary>
 
-- [My Bilibili](https://space.bilibili.com/23931748)  
+- [My Bilibili](https://space.bilibili.com/23931748)
+- [gamedev.net](https://www.gamedev.net/henryawe/)
 
 </details>
