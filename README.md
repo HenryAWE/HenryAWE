@@ -1,15 +1,16 @@
 # Hi! Here's HenryAWE
-I'm a student at Lanzhou University.
 
-**Coding**
+## 教育经历 / Education
+- 本科：计算机科学与技术，兰州大学  
+  Bachelor's Degree in Computer Science and Technology at Lanzhou University.
+
+## Coding
 |GitHub Stats|Most Used Languages|
 |-|-|
 | ![github-stats](https://github-readme-stats.vercel.app/api?username=HenryAWE&count_private=true) | ![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenryAWE)|
 
-<details>
-  <summary><b>Other Info</b></summary>
+## 链接 / Links
 
-- [My Bilibili](https://space.bilibili.com/23931748)
+我在其他平台的个人页面 / My profiles on other platforms.
+- [Bilibili](https://space.bilibili.com/23931748)
 - [gamedev.net](https://www.gamedev.net/henryawe/)
-
-</details>
